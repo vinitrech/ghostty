@@ -1,4 +1,3 @@
-
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following
@@ -60,7 +59,7 @@ cursor-style = block
 
 font-family = "FiraCode Nerd Font Mono"
 font-style = Medium
-font-size = 10
+font-size = 9
 font-feature = liga
 font-feature = calt
 
